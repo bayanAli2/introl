@@ -5,3 +5,4 @@ oranges
 potato
 strawberry
 cherrys
+cereal
